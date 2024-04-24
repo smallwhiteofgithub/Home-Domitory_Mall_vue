@@ -1,3 +1,4 @@
+//包含了部分源文件源码
 <template>
   <div class="home" ref="homeRef">
     <home-nav-bar/>
